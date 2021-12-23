@@ -5,13 +5,28 @@
 - TODO.
 
 ## Compared with the existing normalization methods
-[image](https://github.com/Openning07/reciprocal-normalization-for-DA/blob/main/other_VS_ours.png)
+- TODO.
+
+<p align="center">
+  <img src="https://github.com/Openning07/reciprocal-normalization-for-DA/blob/main/other_VS_ours.png" alt="The technical differences between our RN and the existing counterparts." width="50%">
+</p>
 
 ## Reciprocal Normalization
-[image](https://github.com/Openning07/reciprocal-normalization-for-DA/blob/main/RN.png)
+- TODO.
+
+<p align="center">
+  <img src="https://github.com/Openning07/reciprocal-normalization-for-DA/blob/main/RN.png" alt="The technical differences between our RN and the existing counterparts." width="50%">
+</p>
 
 ## About the code
 - Requirements
-- Data
-- Examples (xxx.sh)
 
+
+- Data
+  - Office-Home.
+
+- The example shell files.
+  - xxx.sh
+
+
+- The expected outputs.
