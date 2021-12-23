@@ -21,7 +21,11 @@
 
 ## About the code
 - Requirements
-
+  - python == 3.6.2
+  - pytorch == 0.4.0
+  - torchvision == 0.2.2
+  - numpy == 1.18.1
+  - CUDA == 10.1.105
 
 - Data
   - Office-Home.
