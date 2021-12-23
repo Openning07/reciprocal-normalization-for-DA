@@ -16,7 +16,7 @@
 - TODO.
 
 <p align="center">
-  <img src="https://github.com/Openning07/reciprocal-normalization-for-DA/blob/main/RN.png" alt="The technical differences between our RN and the existing counterparts." width="75%">
+  <img src="https://github.com/Openning07/reciprocal-normalization-for-DA/blob/main/RN.png" alt="The technical differences between our RN and the existing counterparts." width="85%">
 </p>
 
 ## About the code
