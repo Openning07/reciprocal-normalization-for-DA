@@ -39,12 +39,10 @@
 ## Citation
 Please cite the following paper if you use this repository in your reseach~ Thank you ^ . ^
 ```
-@inproceedings{sheng2018attention,
-  title={Attention-based multi-patch aggregation for image aesthetic assessment},
-  author={Sheng, Kekai and Dong, Weiming and Ma, Chongyang and Mei, Xing and Huang, Feiyue and Hu, Bao-Gang},
-  booktitle={2018 ACM Multimedia Conference on Multimedia Conference},
-  pages={879--886},
-  year={2018},
-  organization={ACM}
+@article{huang2021reciprocal,
+  title={Reciprocal Normalization for Domain Adaptation},
+  author={Huang, Zhiyong and Sheng, Kekai and Li, Ke and Liang, Jian and Yao, Taiping and Dong, Weiming and Zhou, Dengwen and Sun, Xing},
+  journal={arXiv preprint arXiv:2112.10474},
+  year={2021}
 }
 ```
